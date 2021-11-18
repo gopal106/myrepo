@@ -1,1 +1,2 @@
 this new file
+new change 2 in test.txt
